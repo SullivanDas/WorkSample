@@ -1,0 +1,1 @@
+In the video "Example of work in unity" everything except music and the character art was handled by me.
